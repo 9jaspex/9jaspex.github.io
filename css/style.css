@@ -7,7 +7,6 @@ body{
 
 body * {
     box-sizing: border-box;
-    background: #201b2c;
 }
 
 .main-login{
